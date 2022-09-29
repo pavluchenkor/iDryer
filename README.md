@@ -1,6 +1,6 @@
 ###### ‼️ Если вы видите github впервые, нажмите зеленую кнопку "Code" и скачайте все файлы zip архивом 
 
-![BearTower img](https://github.com/pavluchenkor/iDryer/blob/master/IMG/016.jpeg)
+![BearTower img](https://github.com/pavluchenkor/iDryer/blob/master/img/016.jpeg)
 
 # iDryer
 ***из коробки IKEA и саморегулиющегощегося обогреватльного кабеля.***
