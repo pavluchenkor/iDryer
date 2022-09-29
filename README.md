@@ -1,11 +1,11 @@
 ###### ‼️ Если вы видите github впервые, нажмите зеленую кнопку "Code" и скачайте все файлы zip архивом 
 
-![BearTower img](https://github.com/pavluchenkor/BearTower/blob/master/IMG/BearTower.jpeg)
+![BearTower img](https://github.com/pavluchenkor/iDryer/blob/master/IMG/016.jpeg)
 
 # iDryer
-из коробки IKEA и саморегулиющегощегося обогреватльного кабеля.
+***из коробки IKEA и саморегулиющегощегося обогреватльного кабеля.***
 
-Все изображения в папке IMG
+Все изображения в папке IMG<br>
 Три файла для печати в папке stl. Потребуется напечатать две боковины и по два угла.
 Материалы:
 - коробка из [икеи](https://www.ikea.com/ru/ru/p/samla-samla-konteyner-s-kryshkoy-prozrachnyy-s59389131/) или ее аналог из леруа,
